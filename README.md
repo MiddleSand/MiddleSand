@@ -1,4 +1,4 @@
 Hiya, I’m @MiddleSand
-I'm an MC and game developer at [Dotarch](http://dotarch.co)!
+I'm a Minecraft plugin developer and server owner.
 
-I've been working with programming since 2015, and have experience with Java, Python, web languages, SQL, and more
+I've been working with programming since I was 11, and have experience with numerous languages.
