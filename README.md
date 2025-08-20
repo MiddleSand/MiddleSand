@@ -1,1 +1,1 @@
-✨ reimaging the developer experience one project at a time ✨
+✨ reimagining the developer experience one project at a time ✨
